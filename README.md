@@ -6,7 +6,7 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 
 - **C++ | Python | JavaScript**
 - **HTML | CSS**
-- **Currently Exploring:** 🚀 [List any technologies or frameworks you're currently learning]
+- **Currently Exploring:** 🚀 [BootStrap]
 
 ## 🌱 Learning & Projects
 
