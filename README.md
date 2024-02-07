@@ -24,7 +24,7 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadShayan&show_icons=true&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsadShayan&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsadShayan&theme=jolly&hide_border=false)
 
 ## 🤝 Let's Connect
 
