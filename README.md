@@ -20,10 +20,13 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-100000?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=FD950B&color=FD9A18'/></a>
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Stack Overflow' src='https://img.shields.io/badge/Stack_OverFlow-100000?style=for-the-badge&logo=Stack Overflow&logoColor=000000&labelColor=FFFFFF&color=E07F00'/></a>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+
 - ## My Github Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadShayan&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsadShayan&theme=jolly&hide_border=false)<br/>
 
 ## 🤝 Let's Connect
 
