@@ -14,13 +14,11 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 - 🚀 Currently juggling multiple projects - stay tuned for some coding magic!
 
 ## Platforms (I prefer):
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Windows' src='https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=Windows&logoColor=white&labelColor=286BDD&color=1A44DD'/></a>
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='visual studio code' src='https://img.shields.io/badge/VS_Code-100000?style=for-the-badge&logo=visual studio code&logoColor=white&labelColor=7274FF&color=699CE0'/></a>
-
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-100000?style=for-the-badge&logo=Ubuntu&logoColor=white&labelColor=FD950B&color=FD9A18'/></a>
-
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </em>
 
 - ## My Github Stats:
 
@@ -30,8 +28,8 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/asad-shayan-b5b682297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Instagram](https://www.instagram.com/is_shayan_missing?igsh=MzRlODBiNWFlZA==)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AsadShayan) 
+
 
 
 ## 📬 Get in Touch
