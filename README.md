@@ -13,6 +13,10 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 - 📘 Sharpening my skills in C++, Python, and diving into web development.
 - 🚀 Currently juggling multiple projects - stay tuned for some coding magic!
 
+- ## My Github Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadShayan&show_icons=true&theme=radical)
+
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/asad-shayan-b5b682297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
