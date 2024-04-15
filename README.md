@@ -2,6 +2,13 @@
 
 I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GIKI) 🚀. Excited about the world of coding and always up for a challenge!
 
+
+
+<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=YahyaDar&theme=merko&show_icons=true"  />
+
+<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaDar&layout=compact&theme=merko"  />
+
+
 ## 🌐 Languages & Tools
 
 - **C++ | Python | JavaScript**
