@@ -13,12 +13,6 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 </div>
 
 
-## 🌐 Languages & Tools
-
-- **C++ | Python | JavaScript**
-- **HTML | CSS**
-- **Currently Exploring:** 🚀 [BootStrap]
-
 ## 🌱 Learning & Projects
 
 - 📘 Sharpening my skills in C++, Python, and diving into web development.
@@ -36,6 +30,13 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadShayan&show_icons=true&theme=radical)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsadShayan&theme=jolly&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asadshayan1337&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asadshayan1337&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asadshayan1337&theme=nord_dark) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asadshayan1337&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Asadshayan1337&show_icons=true&theme=dark)
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asadshayan1337&theme=darkhub&row=1" alt="Asadshayan" /></a></p>
 
 ## 🤝 Let's Connect
 
