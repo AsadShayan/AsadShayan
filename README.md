@@ -4,9 +4,9 @@ I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GI
 
 
 
-<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=YahyaDar&theme=merko&show_icons=true"  />
+<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=Asadshayan&theme=merko&show_icons=true"  />
 
-<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaDar&layout=compact&theme=merko"  />
+<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadshayan&layout=compact&theme=merko"  />
 
 
 ## 🌐 Languages & Tools
