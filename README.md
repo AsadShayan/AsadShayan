@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</div>
+# Fancy algoritms are slow when n is small , and n is usually small
 
 
-# Hey there , fellow coders ! 👋
+### Hey there , fellow coders ! 👋
 
 I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GIKI) 🚀. Excited about the world of coding and always up for a challenge!
 
