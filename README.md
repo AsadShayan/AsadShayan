@@ -1,5 +1,3 @@
-# Fancy algoritms are slow when n is small , and n is usually small
-
 
 ### Hey there , fellow coders ! 👋
 
