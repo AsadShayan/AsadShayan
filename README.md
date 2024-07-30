@@ -1,5 +1,5 @@
 
-### Hey there , fellow coders ! 👋
+### Hey there, fellow coders ! 👋
 
 I'm **Asad Shayan**, a Computer Science major at Ghulam Ishaq Khan Institute (GIKI) 🚀. Excited about the world of coding and always up for a challenge!
 
